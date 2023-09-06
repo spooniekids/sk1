@@ -53,7 +53,7 @@ footer {
     max-width: 1000px;
     margin-inline: auto;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 2fr 3fr;
     gap: 1em;
     color: #fff;
 }
