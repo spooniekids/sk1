@@ -53,9 +53,12 @@ footer {
     max-width: 1000px;
     margin-inline: auto;
     display: grid;
-    grid-template-columns: 2fr 3fr;
+    /* grid-template-columns: 2fr 3fr; */
     gap: 1em;
     color: #fff;
+}
+.contact {
+  display: none;
 }
 footer p {
     font-size: 0.8em;
@@ -95,7 +98,7 @@ h2 {
 
 .contact-form {
   max-width: 44ch;
-  margin: 4em auto;
+  margin: 2em auto 4em;
   padding: 2em;
   background-color: #1111;
   border-radius: 1em;
@@ -123,6 +126,7 @@ input, textarea {
 }
 
 .new-website {
+  display: none;
     margin-top: 6em;
     padding: 1em;
     border: solid 6px currentColor;

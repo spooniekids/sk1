@@ -28,6 +28,8 @@ Explaining how professionals and families can use the Spoonies resource, Joanna 
 
 > “Next we help to identify the triggers with the child. It’s then time to think about strategies – and how we can help the child, then together we can reflect on what’s working. The resource is all about focusing on what the child ‘can’ do and not on what they can’t.” You can download the Spoonie Kids resource here and on the [old website](https://joannahunt154.wixsite.com/spoontheory).
 
-If you are a professional wanting more information, please contact Joanna directly and she can supply the Spoonie Kids presentation and video.
+If you are a professional wanting more information, please contact Joanna below and she can supply the Spoonie Kids presentation and video.
+
+## Contact
 
 {{< formsubmit >}}
