@@ -47,6 +47,7 @@ header {
 }
 footer {
     padding: 3em 1em 3em 1em;
+    background-image: radial-gradient(circle at 50% 120.71%, #c6ffe9 0, #b3ffe6 10%, #9df9e4 20%, #84f2e2 30%, #64e9e1 40%, #35e0e0 50%, #00d6e0 60%, #00cde2 70%, #00c5e6 80%, #00bde9 90%, #00b5ed 100%);
     background-color: #00C2E7;
 }
 .footer-inner {
@@ -96,20 +97,38 @@ h2 {
     font-size: 1.2em;
 }
 
+a {
+  text-decoration: none;
+}
+img {
+  max-width: 100%;
+}
+
+#pdf + p + p {
+  display: flex;
+  flex-direction: column;
+  margin: 2em auto;
+  text-align: center;
+}
+
+img[src="/img/pdf-thumb.jpg"] {
+  width: 412px;
+}
+
 .contact-form {
   max-width: 44ch;
   margin: 2em auto 4em;
   padding: 2em;
   background-color: #1111;
-  border-radius: 1em;
+  border-radius: 0.5em;
   display: grid;
   grid-template-columns: auto 2fr;
   gap: 0.5em;
-
-  & label {
+}
+ label {
   text-align: right;
 }
-& button {
+.contact-form button {
   border: none;
   font-size: 1em;
   grid-column: 2 / 3;
@@ -119,10 +138,10 @@ h2 {
   border-radius: 0.25em;
   cursor: pointer;
 }
-& input, textarea {
+
+.contact-form :is(input, textarea) {
   border: none;
   border-radius: 0.25em;
-}
 }
 
 .new-website {

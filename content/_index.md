@@ -26,10 +26,19 @@ Different activities can take a different number of spoons and each day is diffe
 
 Explaining how professionals and families can use the Spoonies resource, Joanna says: “First we think about educating and making sure everyone understands a bit more about how fatigue works.
 
-> “Next we help to identify the triggers with the child. It’s then time to think about strategies – and how we can help the child, then together we can reflect on what’s working. The resource is all about focusing on what the child ‘can’ do and not on what they can’t.” You can download the Spoonie Kids resource here and on the [old website](https://joannahunt154.wixsite.com/spoontheory).
+> “Next we help to identify the triggers with the child. It’s then time to think about strategies – and how we can help the child, then together we can reflect on what’s working. The resource is all about focusing on what the child ‘can’ do and not on what they can’t.” You can download the Spoonie Kids resource [below](#pdf).
 
-If you are a professional wanting more information, please contact Joanna below and she can supply the Spoonie Kids presentation and video.
+If you are a professional wanting more information, please [contact](#contact) Joanna and she can supply the Spoonie Kids presentation and video.
+
+## PDF
+
+The resource PDF can be downloaded below.
+
+[![Spooniekids worksheet](/img/pdf-thumb.jpg)](/pdfs/spoonie-1.pdf) 
+[Click to download.](/pdfs/spoonie-1.pdf)
 
 ## Contact
+
+Please feel free to get in touch via the form below.
 
 {{< formsubmit >}}
