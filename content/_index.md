@@ -30,12 +30,12 @@ Explaining how professionals and families can use the Spoonies resource, Joanna 
 
 If you are a professional wanting more information, please [contact](#contact) Joanna and she can supply the Spoonie Kids presentation and video.
 
-## PDF
+<!-- ## PDF
 
 The resource PDF can be downloaded below.
 
 [![Spooniekids worksheet](/img/pdf-thumb.jpg)](/pdfs/spoonie-1.pdf) 
-[Click to download.](/pdfs/spoonie-1.pdf)
+[Click to download.](/pdfs/spoonie-1.pdf) -->
 
 ## Contact
 
