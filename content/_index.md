@@ -5,8 +5,9 @@ date: 2023-09-01T11:29:02+01:00
 
 
 
-The Spoonies are a group of children who all live with fatigue, limiting the amount of energy they have. Spoon Theory was written and created by Christine Miserando. This theory has been adapted here (Spoonie Kids) for the use of children, young people and their families by Joanna Hunt, specialist occupational therapist at The Children’s Trust, and an interactive worksheet is freely available to download.
-Spoonies activity
+The Spoonies are a group of children who all live with fatigue, limiting the amount of energy they have. Spoon Theory was written and created by Christine Miserandino. This theory has been adapted here (Spoonie Kids) for the use of children, young people and their families by Joanna Hunt, specialist occupational therapist, and a set of interactive worksheets are available on request.
+
+## Spoonies activity
 
 Joanna explains: 
 
@@ -14,7 +15,7 @@ Joanna explains:
 >
 > “In the spoon theory, a spoon represents an amount of energy. Spoonies only have a certain number of spoons per day, and have to be careful not to use more than they have otherwise they will crash.”
 
-The resource helps professionals, and parents, work with the child to understand how they can manage their fatigue so they are better able to participate in activities, but without pushing themselves too far.
+The Spooniekids resources help professionals and parents work with the child to understand how they can manage their fatigue so they are better able to participate in activities, but without pushing themselves too far.
 
 Different activities can take a different number of spoons and each day is different. Joanna says: 
 
@@ -28,14 +29,8 @@ Explaining how professionals and families can use the Spoonies resource, Joanna 
 
 > “Next we help to identify the triggers with the child. It’s then time to think about strategies – and how we can help the child, then together we can reflect on what’s working. The resource is all about focusing on what the child ‘can’ do and not on what they can’t.” You can download the Spoonie Kids resource [below](#pdf).
 
-If you are a professional wanting more information, please [contact](#contact) Joanna and she can supply the Spoonie Kids presentation and video.
+If you are a professional wanting more information, please [contact](#contact) Joanna and she can supply the Spooniekids worksheets to you.
 
-<!-- ## PDF
-
-The resource PDF can be downloaded below.
-
-[![Spooniekids worksheet](/img/pdf-thumb.jpg)](/pdfs/spoonie-1.pdf) 
-[Click to download.](/pdfs/spoonie-1.pdf) -->
 
 ## Contact
 
